@@ -30,14 +30,8 @@ Limitations
 
 Standard SPICE MOSFET models are generally not validated at cryogenic temperatures and may not capture effects such as carrier freeze-out. Results at -196 °C should be read as model-based trends, not silicon-accurate values. The noise results depend on the noise models included in the simulation.
 
-Repository Structure
-.
-├── README.md
-├── LICENSE
-└── results/        # labelled simulation screenshots
-License
 
-Released under the MIT License.
+
 License
 
 Released under the MIT License.
